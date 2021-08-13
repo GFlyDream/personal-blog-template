@@ -6,7 +6,7 @@ module.exports = {
       summary: `who lives and studies in Montreal building (hopefully) useful things.`,
     },
     description: `Jian's personal blog using Gatsby`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://blog-jiansun.web.app`,
     social: {
       twitter: `gflydream`,
     },
